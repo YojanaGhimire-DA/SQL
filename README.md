@@ -1,7 +1,7 @@
-#SQL Practice Projects
-Welcome to my SQL Practice Projects repository! 🎉 This repository is a collection of various SQL exercises and projects that I completed to sharpen my SQL skills and showcase my learning progress. These projects include tasks from platforms like HackerRank, personal data analysis exercises, and other SQL-related challenges.
+SQL Practice Projects
+Welcome to my SQL Practice Projects repository!  This repository is a collection of various SQL exercises and projects that I completed to sharpen my SQL skills and showcase my learning progress. These projects include tasks from platforms like HackerRank, personal data analysis exercises, and other SQL-related challenges.
 
-#Table of Contents
+Table of Contents
 Introduction
 Projects Overview
 Technologies Used
